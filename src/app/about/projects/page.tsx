@@ -1,6 +1,6 @@
 import { Suspense } from "react";
-import ProjectList from "../components/project-list";
-import ProjectListLoading from "../components/project-list-loading";
+import ProjectList from "../../../components/project-list";
+import ProjectListLoading from "../../../components/project-list-loading";
 import { ErrorBoundary } from "react-error-boundary";
 import H1 from "@/components/h1";
 
